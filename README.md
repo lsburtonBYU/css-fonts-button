@@ -391,6 +391,6 @@ Pretests (25):
   - footer has styling including `background-color`
   - main has `max-width` set
 
-## 📝 Submit your repo URL to Learning Suite
+## 📝 Submit your repo URL
 
 When you are ready to have your assignment graded, submit your repo  URL on Slack.
